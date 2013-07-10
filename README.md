@@ -1,7 +1,11 @@
+#IMPORTANT
+
+This fork is just a patched version of capybara-webkit 0.13.0 for QT 4.8.4. 
+
+Original project via https://github.com/thoughtbot/capybara-webkit
+
 capybara-webkit
 ===============
-
-[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/thoughtbot/capybara-webkit)
 
 A [capybara](https://github.com/jnicklas/capybara) driver that uses [WebKit](http://webkit.org) via [QtWebKit](http://doc.qt.nokia.com/4.7/qtwebkit.html).
 
